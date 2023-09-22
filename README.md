@@ -3,7 +3,7 @@
 No need for token anymore:
 
 ```bash
-sudo apt insatll gh -y
+sudo apt install gh -y
 ```
 
 ```bash
